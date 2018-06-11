@@ -1,9 +1,12 @@
 # Overview
 These scripts perform a simple installation and configuration of
-JBoss EAP 7.x.  This is typically sufficient for demonstrationa and
+JBoss EAP 7.x.  This is typically sufficient for demonstration and
 development environments.  This can also serve as a good starting
 point for more sophisticated installations, but at that point you
 may want to consider Ansible.
+
+EAP is installed in the same directory where you cloned this
+repository.
 
 # Install
 ## Configuration
