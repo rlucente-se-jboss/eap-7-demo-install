@@ -28,5 +28,6 @@ PUSHD ${WORK_DIR}
   unzip -qo ${BIN_DIR}/jboss-eap-${VER_DIST_EAP}-quickstarts.zip
   IS_OK
 
+  echo "Done."
   echo
 POPD
